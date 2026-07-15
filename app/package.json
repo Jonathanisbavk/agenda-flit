@@ -1,0 +1,30 @@
+{
+  "name": "flit-agenda-2026",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Agenda interactiva y selector de eventos de FLIT Arequipa 2026 con exportación de cronograma en PDF.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "parse": "python ../tools/parse_agenda.py"
+  },
+  "dependencies": {
+    "country-flag-icons": "^1.6.18",
+    "jspdf": "^2.5.2",
+    "jspdf-autotable": "^3.8.4",
+    "lucide-react": "^0.456.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.5",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.1.5",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}

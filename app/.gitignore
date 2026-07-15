@@ -1,0 +1,16 @@
+node_modules
+dist
+dist-ssr
+*.local
+.env
+.env.*
+!.env.example
+.vite
+tools-test/_*.pdf
+
+# editor
+.vscode/*
+.idea
+.DS_Store
+
+.vercel

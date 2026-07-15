@@ -1,0 +1,2993 @@
+{
+  "event": {
+    "name": "FLIT Arequipa 2026",
+    "subtitle": "Festival Latinoamericano de Innovación y Tecnología",
+    "eje": "Tecnología para ser más humanos",
+    "location": "Arequipa, Perú",
+    "dates": "15 - 18 de Julio 2026"
+  },
+  "brand": {
+    "coral": "#fe4a24",
+    "magenta": "#fe0152",
+    "violet": "#6f25ee"
+  },
+  "stats": {
+    "days": 4,
+    "tracks": 7,
+    "events": 112
+  },
+  "days": [
+    {
+      "id": "day-0",
+      "date": "2026-07-15",
+      "weekday": "Miércoles",
+      "day": 15,
+      "tracks": [
+        {
+          "id": "sec-00",
+          "title": "FLIT PYME Y MYPE 2026",
+          "subtitle": "MIERCOLES 15 DE JULIO 2026 de 8:00am a 13:00pm (3 horas) · Co-organiza: Cámara Pyme del Sur · Presidente: Ana Maria Choquehuanca · Con el apoyo de: COFIDE, CLARO Y CAJA AREQUIPA",
+          "span": "8:00 - 13:00",
+          "events": [
+            {
+              "id": "ev-000",
+              "time": "8:00 a 9:00",
+              "start": "8:00",
+              "end": "9:00",
+              "title": "Acreditación y registro",
+              "category": "ACREDITACION",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": true
+            },
+            {
+              "id": "ev-001",
+              "time": "9:00 a 9:05",
+              "start": "9:00",
+              "end": "9:05",
+              "title": "¿Por qué Hacemos FLIT en Arequipa?: Construyendo el Próximo HUB de las Américas en Arequipa Perú",
+              "category": "INAUGURACIÓN",
+              "details": [
+                "MARÍA ALEJANDRA LLOSA",
+                "CEO FLIT"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "MARÍA ALEJANDRA LLOSA",
+                  "role": "CEO FLIT",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-002",
+              "time": "9:10 a 9:35",
+              "start": "9:10",
+              "end": "9:35",
+              "title": "Ceremonia de inauguración",
+              "category": "CEREMONIA DE INAUGURACIÓN",
+              "details": [
+                "MARÍA ALEJANDRA LLOSA (CEO FLIT)",
+                "ANA MARÍA CHOQUEHUANCA - DIRECTORA CAMARA PYME",
+                "JOSÉ CÉSPEDES - SUB GERENTE GENERACIÓN DE NEGOCIOS FIDUCIARIOS COFIDE",
+                "FREDERICK HAWIE (GERENTE PRINCIPAL REGION SUR CLARO)",
+                "MARDY CÁRDENAS HUERTAS (GERENTE DE SUCURSAL CAJA AREQUIPA)"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "MARÍA ALEJANDRA LLOSA",
+                  "role": "CEO FLIT",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "ANA MARÍA CHOQUEHUANCA",
+                  "role": "DIRECTORA CAMARA PYME",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "JOSÉ CÉSPEDES",
+                  "role": "SUB GERENTE GENERACIÓN DE NEGOCIOS FIDUCIARIOS COFIDE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "FREDERICK HAWIE",
+                  "role": "GERENTE PRINCIPAL REGION SUR CLARO",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "MARDY CÁRDENAS HUERTAS",
+                  "role": "GERENTE DE SUCURSAL CAJA AREQUIPA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-003",
+              "time": "9:40 a 10:10",
+              "start": "9:40",
+              "end": "10:10",
+              "title": "La Banca de Desarrollo impulsa la MYPE y los negocios sostenibles",
+              "category": "CONFERENCIA MAGISTRAL",
+              "details": [
+                "JOSÉ CÉSPEDES",
+                "SUB GERENTE GENERACIÓN DE NEGOCIOS FIDUCIARIOS COFIDE"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "JOSÉ CÉSPEDES",
+                  "role": "SUB GERENTE GENERACIÓN DE NEGOCIOS FIDUCIARIOS COFIDE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-004",
+              "time": "10:15 a 10:45",
+              "start": "10:15",
+              "end": "10:45",
+              "title": "La importancia de la fuerza Pyme en el sur",
+              "category": "CONFERENCIA MAGISTRAL",
+              "details": [
+                "ANA MARÍA CHOQUEHUANCA",
+                "DIRECTORA EJECUTIVA CAMARA PYME"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "ANA MARÍA CHOQUEHUANCA",
+                  "role": "DIRECTORA EJECUTIVA CAMARA PYME",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-005",
+              "time": "10:50 a 11:30",
+              "start": "10:50",
+              "end": "11:30",
+              "title": "Panel de diálogo #1",
+              "category": "PANEL DE DIALOGO #1",
+              "details": [
+                "Modera: GERMÁN ZAVALA - GERENTE CÁMARA PYME",
+                "JOSÉ CÉSPEDES - SUB GERENTE GENERACIÓN DE NEGOCIOS FIDUCIARIOS COFIDE",
+                "FREDERICK HAWIE (DIRECTOR REGIONAL SUR CLARO)",
+                "MARDY CÁRDENAS HUERTAS (GERENTE DE SUCURSAL CAJA AREQUIPA)",
+                "ANA MARÍA CHOQUEHUANCA - DIRECTORA MISUR"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "GERMÁN ZAVALA",
+                  "role": "GERENTE CÁMARA PYME",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": true
+                },
+                {
+                  "name": "JOSÉ CÉSPEDES",
+                  "role": "SUB GERENTE GENERACIÓN DE NEGOCIOS FIDUCIARIOS COFIDE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "FREDERICK HAWIE",
+                  "role": "DIRECTOR REGIONAL SUR CLARO",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "MARDY CÁRDENAS HUERTAS",
+                  "role": "GERENTE DE SUCURSAL CAJA AREQUIPA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "ANA MARÍA CHOQUEHUANCA",
+                  "role": "DIRECTORA MISUR",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-006",
+              "time": "11:30 a 11:40",
+              "start": "11:30",
+              "end": "11:40",
+              "title": "Sorteo publico + descanso + trivia",
+              "category": "SORTEO PUBLICO + DESCANSO + TRIVIA",
+              "details": [
+                "DESCANSO",
+                "TRIVIA Y SORTEO PÚBLICO"
+              ],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": true
+            },
+            {
+              "id": "ev-007",
+              "time": "11:40 a 12:10",
+              "start": "11:40",
+              "end": "12:10",
+              "title": "De la nube a tu bolsillo como armar tu dream team de inteligencia artificial",
+              "category": "CONFERENCIA MAGISTRAL",
+              "details": [
+                "GUILLERMO CASTRO",
+                "ESPECIALISTA DE SERVICIOS CLOUD SAAS",
+                "CLARO PERÚ"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "GUILLERMO CASTRO",
+                  "role": "ESPECIALISTA DE SERVICIOS CLOUD SAAS",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "CLARO PERÚ",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-008",
+              "time": "12:15 a 12:45",
+              "start": "12:15",
+              "end": "12:45",
+              "title": "El ecosistema invisible: Cómo los pagos digitales impulsan tu negocio",
+              "category": "CONFERENCIA MAGISTRAL",
+              "details": [
+                "GALEA SOTO BARRIOS",
+                "Jefe de Negocios y Canales Alternativos CAJA AREQUIPA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "GALEA SOTO BARRIOS",
+                  "role": "Jefe de Negocios y Canales Alternativos CAJA AREQUIPA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-009",
+              "time": "13:00 a 15:00",
+              "start": "13:00",
+              "end": "15:00",
+              "title": "Almuerzo",
+              "category": "ALMUERZO",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": true
+            }
+          ]
+        },
+        {
+          "id": "sec-01",
+          "title": "FLIT DEMO DAY 2026",
+          "subtitle": "MIERCOLES 15 DE JULIO 2026 de 14:00pm a 18:30pm · Co-Financia: PECAP y BIDLAB | 1er Premio: PARTNERSHIPS BCP · Apoyo y 3er Premio: ENDEAVOR · Incubadora Líder: PARMENIA - Universidad La Salle · Incubadoras Asociadas: Incuba Andina Lab del Cusco, Incubas de Tacna, TPSI de Madre de Dios · Coordinador General: Pablo Pacheco",
+          "span": "14:00 - 18:30",
+          "events": [
+            {
+              "id": "ev-010",
+              "time": "14:00 a 15:00",
+              "start": "14:00",
+              "end": "15:00",
+              "title": "Acreditación y registro desde las 14:00 pm",
+              "category": "ACREDITACION",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": true
+            },
+            {
+              "id": "ev-011",
+              "time": "15:00 a 15:20",
+              "start": "15:00",
+              "end": "15:20",
+              "title": "Ceremonia de inauguración",
+              "category": "CEREMONIA DE INAUGURACIÓN",
+              "details": [
+                "MARÍA ALEJANDRA LLOSA (CEO FLIT)",
+                "PATRICIO QUINTANILLA (RECTOR UNIVERSIDAD LA SALLE)",
+                "JORGE PEÑARANDA (SUBGERENTE DE COMPETITIVIDAD Y DESARROLLO DE NUEVOS PRODUCTOS COFIDE)",
+                "ROMINA DÍAZ (PECAP)",
+                "LORENA LORA (PARTNERSHIPS BCP)",
+                "ANDY HUMPIRE (COORDINADOR GENERAL INCUBA ANDINA LAB - CUSCO)",
+                "WILSON GARCÍA (COORDINADOR GENERAL INCUBAS - TACNA)",
+                "SERGIO CASQUERO (COORDINADOR GENERAL TPSI - MADRE DE DIOS)"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "MARÍA ALEJANDRA LLOSA",
+                  "role": "CEO FLIT · PATRICIO QUINTANILLA (RECTOR UNIVERSIDAD LA SALLE)",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "JORGE PEÑARANDA",
+                  "role": "SUBGERENTE DE COMPETITIVIDAD Y DESARROLLO DE NUEVOS PRODUCTOS COFIDE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "ROMINA DÍAZ",
+                  "role": "PECAP",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "LORENA LORA",
+                  "role": "PARTNERSHIPS BCP · ANDY HUMPIRE (COORDINADOR GENERAL INCUBA ANDINA LAB",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "CUSCO)",
+                  "role": "WILSON GARCÍA (COORDINADOR GENERAL INCUBAS",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "TACNA)",
+                  "role": "SERGIO CASQUERO (COORDINADOR GENERAL TPSI",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "MADRE DE DIOS)",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-012",
+              "time": "15:20 a 16:00",
+              "start": "15:20",
+              "end": "16:00",
+              "title": "Capital Emprendedor en Perú",
+              "category": "PANEL DE DIÁLOGO",
+              "details": [
+                "¿Cuál es la importancia de sembrar y descentralizar el trabajo con emprendedores en Perú?",
+                "Modera: SERGIO CASQUERO (COORDINADOR GENERAL TPSI)",
+                "JORGE PEÑARANDA (SUBGERENTE DE COMPETITIVIDAD Y DESARROLLO DE NUEVOS PRODUCTOS COFIDE)",
+                "GONZALO VILLARÁN (DIRECTOR THE BOARD y FUNDADOR UTEC VENTURES)",
+                "ROMINA DIAZ (PECAP)"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "SERGIO CASQUERO",
+                  "role": "COORDINADOR GENERAL TPSI",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": true
+                },
+                {
+                  "name": "JORGE PEÑARANDA",
+                  "role": "SUBGERENTE DE COMPETITIVIDAD Y DESARROLLO DE NUEVOS PRODUCTOS COFIDE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "GONZALO VILLARÁN",
+                  "role": "DIRECTOR THE BOARD y FUNDADOR UTEC VENTURES",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "ROMINA DIAZ",
+                  "role": "PECAP",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-013",
+              "time": "16:00 a 16:15",
+              "start": "16:00",
+              "end": "16:15",
+              "title": "Ménage a deux",
+              "category": null,
+              "details": [
+                "CONFERENCIA MAGISTRAL: «PARTNERSHIPS BCP: CONECTANDO STARTUPS Y FINTECHS CON IMPACTO»",
+                "LORENA LORA (Partnerships Specialist BCP) & GIANNA PINASCO ( Corporate Innovation & Startup Strategy BCP)"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-014",
+              "time": "16:15 a 16:25",
+              "start": "16:15",
+              "end": "16:25",
+              "title": "Maestro de ceremonia",
+              "category": "PRESENTACIÓN DE DINÁMICA PARA DE LOS 12 STARTUPS CONCURSANTES",
+              "details": [
+                "PABLO PACHECO",
+                "COORDINADOR GENERAL PARMENIA LA SALLE"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "PABLO PACHECO",
+                  "role": "COORDINADOR GENERAL PARMENIA LA SALLE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-015",
+              "time": "16:25 a 16:35",
+              "start": "16:25",
+              "end": "16:35",
+              "title": "1era startup seleccionada + 5 min. de feedback del Jurado",
+              "category": "PITCH #1",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-016",
+              "time": "16:35 a 16:45",
+              "start": "16:35",
+              "end": "16:45",
+              "title": "2da startup seleccionada +5 min. de feedback del Jurado",
+              "category": "PITCH #2",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-017",
+              "time": "16:45 a 16:55",
+              "start": "16:45",
+              "end": "16:55",
+              "title": "3era startup seleccionada + 5 min. de feedback del Jurado",
+              "category": "PITCH #3",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-018",
+              "time": "16:55 a 17:05",
+              "start": "16:55",
+              "end": "17:05",
+              "title": "4ta startup seleccionada + 5 min. de feedback del Jurado",
+              "category": "PITCH #4",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-019",
+              "time": "17:05 a 17:15",
+              "start": "17:05",
+              "end": "17:15",
+              "title": "5ta startup seleccionada + 5 min. de feedback del Jurado",
+              "category": "PITCH #5",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-020",
+              "time": "16:15 a 16:25",
+              "start": "16:15",
+              "end": "16:25",
+              "title": "6ta startup seleccionada + 5 min. de feedback del Jurado",
+              "category": "PITCH #6",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-021",
+              "time": "16:25 a 16:35",
+              "start": "16:25",
+              "end": "16:35",
+              "title": "7ma startup seleccionada + 5 min. de feedback del Jurado",
+              "category": "PITCH #7",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-022",
+              "time": "16:35 a 16:45",
+              "start": "16:35",
+              "end": "16:45",
+              "title": "8va startup seleccionada + 5 min. de feedback del Jurado",
+              "category": "PITCH #8",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-023",
+              "time": "16:45 a 16:55",
+              "start": "16:45",
+              "end": "16:55",
+              "title": "9na startup seleccionada + 5 min. de feedback del Jurado",
+              "category": "PITCH #9",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-024",
+              "time": "16:55 a 17:05",
+              "start": "16:55",
+              "end": "17:05",
+              "title": "10ma startup seleccionada + 5 min. de feedback del Jurado",
+              "category": "PITCH #10",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-025",
+              "time": "17:05 a 17:15",
+              "start": "17:05",
+              "end": "17:15",
+              "title": "11va startup seleccionada + 5 min. de feedback del Jurado",
+              "category": "PITCH #11",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-026",
+              "time": "17:15 a 17:25",
+              "start": "17:15",
+              "end": "17:25",
+              "title": "12va startup seleccionada + 5 min. de feedback del Jurado",
+              "category": "PITCH #12",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-027",
+              "time": "17:25",
+              "start": "17:25",
+              "end": null,
+              "title": "Tiempo de espera: deliberación de jurados",
+              "category": null,
+              "details": [
+                "4 PITCHS",
+                "PRESENTACIÓN DE STARTUPS DE GRAN VALOR"
+              ],
+              "country": null,
+              "iso": null,
+              "speakers": [
+                {
+                  "name": "4 PITCHS",
+                  "role": "PRESENTACIÓN DE STARTUPS DE GRAN VALOR",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-028",
+              "time": "17:35 a 18:45",
+              "start": "17:35",
+              "end": "18:45",
+              "title": "Etapa de selección y premiación de ganadores",
+              "category": "ETAPA DE SELECCIÓN Y PREMIACIÓN DE GANADORES",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day-1",
+      "date": "2026-07-16",
+      "weekday": "Jueves",
+      "day": 16,
+      "tracks": [
+        {
+          "id": "sec-02",
+          "title": "PRIMER DÍA #1",
+          "subtitle": "MAINSTAGE FLIT - CONGRESO PRINCIPAL FLIT · JUEVES 16 DE JULIO 2026 de 8:00am a 18:30pm · EJE PRINCIPAL: \"Tecnología para ser más humanos\"",
+          "span": "8:00 - 18:30",
+          "events": [
+            {
+              "id": "ev-029",
+              "time": "8:00 a 9:00",
+              "start": "8:00",
+              "end": "9:00",
+              "title": "Acreditación y registro",
+              "category": "ACREDITACIÓN Y REGISTRO",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": true
+            },
+            {
+              "id": "ev-030",
+              "time": "9:00 a 9:20",
+              "start": "9:00",
+              "end": "9:20",
+              "title": "Agentic AI: La Nueva Realidad de los Negocios en LATAM",
+              "category": "KEYNOTE #1 (FORMATO TIPO TEDX)",
+              "details": [
+                "ROGUER PAREDES",
+                "JEFE DE LA OFICINA DE PROYECTOS CX CONAUTO TOYOTA PERU"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "ROGUER PAREDES",
+                  "role": "JEFE DE LA OFICINA DE PROYECTOS CX CONAUTO TOYOTA PERU",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-031",
+              "time": "9:25 a 9:45",
+              "start": "9:25",
+              "end": "9:45",
+              "title": "La Evolución del Empresariado en Tiempos de Inteligencia Artificial",
+              "category": "KEYNOTE #2 (FORMATO TIPO TEDX)",
+              "details": [
+                "CAROLINA ALTSCHWAGER",
+                "DIRECTORA ALMABRANDS - EX-PRESIDENTE DE DIRECTORIO CANAL 13 CHILE"
+              ],
+              "country": "Chile",
+              "iso": "CL",
+              "speakers": [
+                {
+                  "name": "CAROLINA ALTSCHWAGER",
+                  "role": "DIRECTORA ALMABRANDS · EX-PRESIDENTE DE DIRECTORIO CANAL 13 CHILE",
+                  "country": "Chile",
+                  "iso": "CL",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-032",
+              "time": "9:50 a 10:15",
+              "start": "9:50",
+              "end": "10:15",
+              "title": "Centro Nacional de Inteligencia Artificial de Chile - CENIA: Apuesta por el Futuro de la Humanidad",
+              "category": "KEYNOTE #3 (FORMATO TIPO TEDX)",
+              "details": [
+                "RODRIGO DURÁN",
+                "GERENTE CENTRO NACIONAL INTELIGENCIA ARTIFICIAL - CENIA"
+              ],
+              "country": "Chile",
+              "iso": "CL",
+              "speakers": [
+                {
+                  "name": "RODRIGO DURÁN",
+                  "role": "GERENTE CENTRO NACIONAL INTELIGENCIA ARTIFICIAL",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "CENIA",
+                  "role": null,
+                  "country": "Chile",
+                  "iso": "CL",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-033",
+              "time": "10:15 a 11:00",
+              "start": "10:15",
+              "end": "11:00",
+              "title": "Inteligencia Artificial en LATAM: Retos y oportunidades",
+              "category": "PANEL DE DIALOGO #1",
+              "details": [
+                "Modera: ROGUER PAREDES - JEFE DE LA OFICINA DE PROYECTOS CX CONAUTO TOYOTA",
+                "OMAR FLORES - TEAM LEAD LATAM GPT CENIA",
+                "RODRIGO DURÁN - GERENTE CENIA",
+                "CRISTIAN LÓPEZ DEL ALAMO - RESEARCH ASSOCIATE PROFESSOR UTEC",
+                "JOSÉ OCHOA - DIRECTOR CENTRO de INVESTIGACIÓN e INNOVACIÓN en COMPUTACIÓN UCSP"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "ROGUER PAREDES",
+                  "role": "JEFE DE LA OFICINA DE PROYECTOS CX CONAUTO TOYOTA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": true
+                },
+                {
+                  "name": "OMAR FLORES",
+                  "role": null,
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "TEAM LEAD LATAM GPT CENIA",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "RODRIGO DURÁN",
+                  "role": "GERENTE CENIA",
+                  "country": "Chile",
+                  "iso": "CL",
+                  "moderator": false
+                },
+                {
+                  "name": "CRISTIAN LÓPEZ DEL ALAMO",
+                  "role": null,
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "RESEARCH ASSOCIATE PROFESSOR UTEC",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "JOSÉ OCHOA",
+                  "role": "DIRECTOR CENTRO de INVESTIGACIÓN e INNOVACIÓN en COMPUTACIÓN UCSP",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-034",
+              "time": "11:00 a 11:10",
+              "start": "11:00",
+              "end": "11:10",
+              "title": "Break & networking 10 minutos",
+              "category": "BREAK & NETWORKING 10 MINUTOS",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": true
+            },
+            {
+              "id": "ev-035",
+              "time": "11:10 a 11:40",
+              "start": "11:10",
+              "end": "11:40",
+              "title": "¿Cómo se ve el futuro de la Inteligencia Artificial en el mundo?",
+              "category": "KEYNOTE #4 (FORMATO TIPO TEDX)",
+              "details": [
+                "CLAUDIA DEL POZO",
+                "DIRECTORA EJECUTIVA EON INSTITUTE"
+              ],
+              "country": "México",
+              "iso": "MX",
+              "speakers": [
+                {
+                  "name": "CLAUDIA DEL POZO",
+                  "role": "DIRECTORA EJECUTIVA EON INSTITUTE",
+                  "country": "México",
+                  "iso": "MX",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-036",
+              "time": "11:45 a 12:05",
+              "start": "11:45",
+              "end": "12:05",
+              "title": "Ciberseguridad y protección de los datos",
+              "category": "KEYNOTE #4 (FORMATO TIPO TEDX)",
+              "details": [
+                "ERICK IRIARTE",
+                "SOCIO PRINCIPAL IALAW"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "ERICK IRIARTE",
+                  "role": "SOCIO PRINCIPAL IALAW",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-037",
+              "time": "12:10 a 12:30",
+              "start": "12:10",
+              "end": "12:30",
+              "title": "Cuando la Banca de Desarrollo se encuentra con el Emprendimiento y la Tecnología",
+              "category": "KEYNOTE #5 (FORMATO TIPO TEDX)",
+              "details": [
+                "JORGE VELARDE",
+                "PRESIDENTE COFIDE"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "JORGE VELARDE",
+                  "role": "PRESIDENTE COFIDE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-038",
+              "time": "12:30 a 12:35",
+              "start": "12:30",
+              "end": "12:35",
+              "title": "Ceremonia de inauguración",
+              "category": "KEYNOTE #6 (FORMATO TIPO TEDX)",
+              "details": [
+                "¿Porqué hacemos FLIT en la región sur?: Construyendo el Próximo HUB de las Américas en Arequipa",
+                "MARIA ALEJANDRA LLOSA",
+                "CEO FLIT"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "MARIA ALEJANDRA LLOSA",
+                  "role": "CEO FLIT",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-039",
+              "time": "12:35 a 13:00",
+              "start": "12:35",
+              "end": "13:00",
+              "title": "Altas autoridades",
+              "category": "CEREMONIA DE INAUGURACIÓN DEL EVENTO FLIT 2025",
+              "details": [
+                "RUCCY OSCCO - ALCALDESA DE AREQUIPA",
+                "CARLOS FERNÁNDEZ - PRESIDENTE CÁMARA DE COMERCIO E INDUSTRIA DE AREQUIPA",
+                "JORGE VELARDE - PRESIDENTE COFIDE",
+                "MARIA ALEJANDRA LLOSA - CEO DE FLIT",
+                "ANA MARIA CHOQUEHUANCA - DIRECTORA EJECUTIVA CÁMARA PYME",
+                "TERESA RUBINA - PRESIDENTE DE BURO DE CONVENCIONES",
+                "CATHERINE RODRIGUEZ - GERENTE DE TRABAJO Y PROMOCION DEL EMPLEO GORE AREQUIPA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "RUCCY OSCCO",
+                  "role": null,
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "ALCALDESA DE AREQUIPA",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "CARLOS FERNÁNDEZ",
+                  "role": "PRESIDENTE CÁMARA DE COMERCIO E INDUSTRIA DE AREQUIPA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "JORGE VELARDE",
+                  "role": "PRESIDENTE COFIDE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "MARIA ALEJANDRA LLOSA",
+                  "role": "CEO DE FLIT",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "ANA MARIA CHOQUEHUANCA",
+                  "role": "DIRECTORA EJECUTIVA CÁMARA PYME",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "TERESA RUBINA",
+                  "role": "PRESIDENTE DE BURO DE CONVENCIONES",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "CATHERINE RODRIGUEZ",
+                  "role": "GERENTE DE TRABAJO Y PROMOCION DEL EMPLEO GORE AREQUIPA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-040",
+              "time": "15:00 a 15:20",
+              "start": "15:00",
+              "end": "15:20",
+              "title": "Inteligencia Artificial en la Minería: Caso Buenaventura",
+              "category": "KEYNOTE #7 (FORMATO TIPO TEDX): «MINERÍA INNOVADORA»",
+              "details": [
+                "RENZO MACHER",
+                "VICEPRESIDENTE DE PROYECTOS E INNOVACION COMPAÑIA DE MINAS BUENAVENTURA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "RENZO MACHER",
+                  "role": "VICEPRESIDENTE DE PROYECTOS E INNOVACION COMPAÑIA DE MINAS BUENAVENTURA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-041",
+              "time": "15:25 a 16:05",
+              "start": "15:25",
+              "end": "16:05",
+              "title": "Transformando la minería a través de la innovación",
+              "category": "PANEL DE DIALOGO #2 «MINERÍA INNOVADORA»",
+              "details": [
+                "Modera: PAMELA ANTONIOLLI - GERENTE GENERAL HUB MINERO",
+                "RAPHAEL DELGADO - GERENTE GENERAL CETEMIN",
+                "PATRICIA CASTILLO -DIRECTORA DE INVESTIGACIÓN UCSP",
+                "RENZO MACHER - VICEPRESIDENTE DE PROYECTOS E INNOVACION COMPAÑIA DE MINAS BUENAVENTURA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "PAMELA ANTONIOLLI",
+                  "role": "GERENTE GENERAL HUB MINERO",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": true
+                },
+                {
+                  "name": "RAPHAEL DELGADO",
+                  "role": "GERENTE GENERAL CETEMIN · PATRICIA CASTILLO -DIRECTORA DE INVESTIGACIÓN UCSP",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "RENZO MACHER",
+                  "role": "VICEPRESIDENTE DE PROYECTOS E INNOVACION COMPAÑIA DE MINAS BUENAVENTURA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-042",
+              "time": "16:10 a 16:30",
+              "start": "16:10",
+              "end": "16:30",
+              "title": "Minería Innovadora",
+              "category": "KEYNOTE #8 (FORMATO TIPO TEDX)",
+              "details": [
+                "TEMA: « Sociedad Minera Cerro Verde: Logros en sostenibilidad»",
+                "PABLO ALCAZAR",
+                "GERENTE DE ASUNTOS PÚBLICOS Y RELACIONES COMUNITARIAS SOCIEDAD MINERA CERRO VERDE"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "PABLO ALCAZAR",
+                  "role": "GERENTE DE ASUNTOS PÚBLICOS Y RELACIONES COMUNITARIAS SOCIEDAD MINERA CERRO VERDE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-043",
+              "time": "16:35 a 16:55",
+              "start": "16:35",
+              "end": "16:55",
+              "title": "El Futuro del Ecosistema de Innovación en el Perú",
+              "category": "KEYNOTE #9 (FORMATO TIPO TEDX)",
+              "details": [
+                "GONZALO VILLARÁN",
+                "DIRECTOR DE THE BOARD PERU"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "GONZALO VILLARÁN",
+                  "role": "DIRECTOR DE THE BOARD PERU",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-044",
+              "time": "17:00 a 17:20",
+              "start": "17:00",
+              "end": "17:20",
+              "title": "Conectados para crecer: enfrentar desafíos tecnológicos en Pymes/Mypes",
+              "category": "KEYNOTE #10 (FORMATO TIPO TEDX)",
+              "details": [
+                "FREDERICK HAWIE",
+                "DIRECTOR REGIONAL SUR CLARO"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "FREDERICK HAWIE",
+                  "role": "DIRECTOR REGIONAL SUR CLARO",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-045",
+              "time": "17:25 a 17:45",
+              "start": "17:25",
+              "end": "17:45",
+              "title": "La visión de Universidad Continental en innovación educativa y su Modelo Adaptativo",
+              "category": "KEYNOTE #11 (FORMATO TIPO TEDX)",
+              "details": [
+                "CRISTINA SAKSANIAN",
+                "RECTORA UNIVERSIDAD CONTINENTAL"
+              ],
+              "country": "Brasil",
+              "iso": "BR",
+              "speakers": [
+                {
+                  "name": "CRISTINA SAKSANIAN",
+                  "role": "RECTORA UNIVERSIDAD CONTINENTAL",
+                  "country": "Brasil",
+                  "iso": "BR",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-046",
+              "time": "17:50 a 18:10",
+              "start": "17:50",
+              "end": "18:10",
+              "title": "Credenciales digitales y empleabilidad en LATAM",
+              "category": "KEYNOTE #12 (FORMATO TIPO TEDX)",
+              "details": [
+                "ANDREA VOTO-BERNALES",
+                "LATIN AMERIC GROWTH DIRECTOR POK ARGENTINA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "ANDREA VOTO-BERNALES",
+                  "role": "LATIN AMERIC GROWTH DIRECTOR POK ARGENTINA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-047",
+              "time": "18:15 a 18:35",
+              "start": "18:15",
+              "end": "18:35",
+              "title": "Tecnología que impulsa negocios: cómo la innovación financiera está transformando a las MYPEs",
+              "category": "KEYNOTE #13 (FORMATO TIPO TEDX)",
+              "details": [
+                "LUIS CARPIO ALI",
+                "Jefe de Infraestructura y Tecnologia"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "LUIS CARPIO ALI",
+                  "role": "Jefe de Infraestructura y Tecnologia",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-048",
+              "time": "20:05 a 24:00",
+              "start": "20:05",
+              "end": "24:00",
+              "title": "AFTER PARTY FLIT Entrada con invitación",
+              "category": null,
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            }
+          ]
+        },
+        {
+          "id": "sec-04",
+          "title": "FLIT MUJER",
+          "subtitle": "Día: JUEVES 16 DE JULIO 2026 DE 8:00 AM A 18:00PM · Lugar: Universidad La Salle Auditorio Benito Juarez - Capacidad 120 personas · INGRESO GRATUITO - PREVIA INSCRIPCIÓN · Lidera: Cámara de Comercio Arequipa - Comisión de Mujeres Empresarias · Coordinadora General: Karina Espinal",
+          "span": "8:00 - 18:00",
+          "events": [
+            {
+              "id": "ev-067",
+              "time": "8:00 a 9:00",
+              "start": "8:00",
+              "end": "9:00",
+              "title": "Acreditación y registro",
+              "category": "ACREDITACION",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": true
+            },
+            {
+              "id": "ev-068",
+              "time": "9:00 a 9:30",
+              "start": "9:00",
+              "end": "9:30",
+              "title": "Ceremonia de inauguración",
+              "category": "CEREMONIA DE INAGURACIÓN",
+              "details": [
+                "MARIA ALEJANDRA LLOSA - CEO FLIT - PATRICIO QUINTANILLA - RECTOR UNIVERSIDAD LA SALLE - MARIA EMILIA LADRON DE GUEVARA - PRESIDENTA COMISIÓN DE MUJERES CCIA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "MARIA ALEJANDRA LLOSA",
+                  "role": "CEO FLIT · PATRICIO QUINTANILLA · RECTOR UNIVERSIDAD LA SALLE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "MARIA EMILIA LADRON DE GUEVARA",
+                  "role": null,
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "PRESIDENTA COMISIÓN DE MUJERES CCIA",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-069",
+              "time": "9:35 a 9:55",
+              "start": "9:35",
+              "end": "9:55",
+              "title": "El papel de la mujer en la era de la IA",
+              "category": "KEYNOTE #1 (FORMATO TIPO TEDX)",
+              "details": [
+                "CLAUDIA DEL POZO",
+                "DIRECTORA EJECUTIVA EON INSTITUTE"
+              ],
+              "country": "México",
+              "iso": "MX",
+              "speakers": [
+                {
+                  "name": "CLAUDIA DEL POZO",
+                  "role": "DIRECTORA EJECUTIVA EON INSTITUTE",
+                  "country": "México",
+                  "iso": "MX",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-070",
+              "time": "10:00 a 10:20",
+              "start": "10:00",
+              "end": "10:20",
+              "title": "El Papel de la mujer emprendedora pyme-mype en el empresariado latinoamericano",
+              "category": "KEYNOTE #2 (FORMATO TIPO TEDX)",
+              "details": [
+                "ANA MARIA CHOQUEHUANCA",
+                "DIRECTORA CAMARA PYME Y PRESIDENTE MISUR"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "ANA MARIA CHOQUEHUANCA",
+                  "role": "DIRECTORA CAMARA PYME Y PRESIDENTE MISUR",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-071",
+              "time": "10:25 a 10:45",
+              "start": "10:25",
+              "end": "10:45",
+              "title": "Latinoamérica al 2030: el liderazgo femenino como motor de innovación económico",
+              "category": "KEYNOTE #3 (FORMATO TIPO TEDX)",
+              "details": [
+                "CAROLINA ALTSCHWAGER",
+                "CEO ALMABRANDS - EX - PRESIDENTE DE DIRECTORIO DE CANAL 13 CHILE"
+              ],
+              "country": "Chile",
+              "iso": "CL",
+              "speakers": [
+                {
+                  "name": "CAROLINA ALTSCHWAGER",
+                  "role": "CEO ALMABRANDS",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "EX",
+                  "role": "PRESIDENTE DE DIRECTORIO DE CANAL 13 CHILE",
+                  "country": "Chile",
+                  "iso": "CL",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-072",
+              "time": "10:45 a 11:15",
+              "start": "10:45",
+              "end": "11:15",
+              "title": "Break y networking",
+              "category": "BREAK",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": true
+            },
+            {
+              "id": "ev-073",
+              "time": "23:00 a 23:15",
+              "start": "23:00",
+              "end": "23:15",
+              "title": "Equilibrio entre la energía femenina y masculina para un mejor liderazgo",
+              "category": "KEYNOTE #4 (FORMATO TIPO TEDX)",
+              "details": [
+                "MARIA ISABEL ZEGARRA",
+                "CEO NEXUS"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "MARIA ISABEL ZEGARRA",
+                  "role": "CEO NEXUS",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-074",
+              "time": "23:15 a 23:35",
+              "start": "23:15",
+              "end": "23:35",
+              "title": "Por Definir",
+              "category": "KEYNOTE #5 (FORMATO TIPO TEDX)",
+              "details": [
+                "CRISTINA SAKSANIAN",
+                "RECTORA UNIVERSIDAD CONTINENTAL"
+              ],
+              "country": "Brasil",
+              "iso": "BR",
+              "speakers": [
+                {
+                  "name": "CRISTINA SAKSANIAN",
+                  "role": "RECTORA UNIVERSIDAD CONTINENTAL",
+                  "country": "Brasil",
+                  "iso": "BR",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-075",
+              "time": "23:35 a 12:15",
+              "start": "23:35",
+              "end": "12:15",
+              "title": "Mujeres redefiniendo Latinoamérica",
+              "category": "PANEL DE DIALOGO #1",
+              "details": [
+                "Panel Modera: KARINA ESPINAL - GERENTE INTEDYA - CAROLINA ALTSCHWAGER - CEO ALMABRANDS - CRISTINA SAKSANIAN - RECTORA UNIVERSIDAD CONTINENTAL - MARIA EMILIA LADRON DE GUEVARA -PRESIDENTE COMISION DE MUJERES CCIA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "Panel Modera: KARINA ESPINAL",
+                  "role": "GERENTE INTEDYA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "CAROLINA ALTSCHWAGER",
+                  "role": "CEO ALMABRANDS",
+                  "country": "Chile",
+                  "iso": "CL",
+                  "moderator": false
+                },
+                {
+                  "name": "CRISTINA SAKSANIAN",
+                  "role": "RECTORA UNIVERSIDAD CONTINENTAL · MARIA EMILIA LADRON DE GUEVARA -PRESIDENTE COMISION DE MUJERES CCIA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-076",
+              "time": "12:15 a 12:35",
+              "start": "12:15",
+              "end": "12:35",
+              "title": "Humanización y empatía para mejorar la calidad en el sector salud",
+              "category": "KEYNOTE #6 (FORMATO TIPO TEDX)",
+              "details": [
+                "SARA CIFUENTES",
+                "DIRECTORA FUNDACION TANI"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "SARA CIFUENTES",
+                  "role": "DIRECTORA FUNDACION TANI",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-077",
+              "time": "12:40 a 13:00",
+              "start": "12:40",
+              "end": "13:00",
+              "title": "Impulsando iniciativas para promover la inclusión financiera femenina: Supérate Mujer",
+              "category": "KEYNOTE #7 (FORMATO TIPO TEDX)",
+              "details": [
+                "GERALI GUZMAN PALACIOS",
+                "JEFE DE MARKETING CAJA AREQUIPA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "GERALI GUZMAN PALACIOS",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": null,
+                  "role": "JEFE DE MARKETING CAJA AREQUIPA",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-078",
+              "time": "13:05 a 13:25",
+              "start": "13:05",
+              "end": "13:25",
+              "title": "Magma Gala y la importancia de la moda y la solidaridad",
+              "category": "KEYNOTE #8 (FORMATO TIPO TEDX)",
+              "details": [
+                "CLAUDIA SALINAS BOTTO",
+                "DUSHKA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "CLAUDIA SALINAS BOTTO",
+                  "role": null,
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "DUSHKA",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-079",
+              "time": "13:30 a 15:30",
+              "start": "13:30",
+              "end": "15:30",
+              "title": "Almuerzo",
+              "category": "ALMUERZO",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": true
+            },
+            {
+              "id": "ev-080",
+              "time": "15:55 a 16:40",
+              "start": "15:55",
+              "end": "16:40",
+              "title": "Líderes Femeninas Latinoamericanas: Distintos sectores, una misma visión al 2030",
+              "category": "PANEL DE DIALOGO #2",
+              "details": [
+                "Modera: SUSANA BUSTINZA - ORION GPE",
+                "CLAUDIA DEL POZO - EON INSTITUTE - CATHERINE RODRIGUEZ - GORE AREQUIPA",
+                "ERIKA ACOSTA - LIDER DEL CAPITULO DE TECNOLOGÍAS DISRUPTIVAS WOMEN IN TECHNOLOGY COUNCIL"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "SUSANA BUSTINZA",
+                  "role": null,
+                  "country": null,
+                  "iso": null,
+                  "moderator": true
+                },
+                {
+                  "name": "ORION GPE",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "CLAUDIA DEL POZO",
+                  "role": null,
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "EON INSTITUTE",
+                  "role": null,
+                  "country": "México",
+                  "iso": "MX",
+                  "moderator": false
+                },
+                {
+                  "name": "CATHERINE RODRIGUEZ",
+                  "role": null,
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "GORE AREQUIPA",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "ERIKA ACOSTA",
+                  "role": "LIDER DEL CAPITULO DE TECNOLOGÍAS DISRUPTIVAS WOMEN IN TECHNOLOGY COUNCIL",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-081",
+              "time": "16:50 a 17:05",
+              "start": "16:50",
+              "end": "17:05",
+              "title": "Liderazgo femenino en la empleabilidad y el trabajo",
+              "category": "KEYNOTE #9 (FORMATO TIPO TEDX)",
+              "details": [
+                "CATHERINE RODRIGUEZ",
+                "GERENTE DE TRABAJO Y PROMOCION DEL EMPLEO GORE AREQUIPA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "CATHERINE RODRIGUEZ",
+                  "role": "GERENTE DE TRABAJO Y PROMOCION DEL EMPLEO GORE AREQUIPA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-082",
+              "time": "17:10 a 17:25",
+              "start": "17:10",
+              "end": "17:25",
+              "title": "La importancia del liderazgo femenino en la industria minero-energética",
+              "category": "KEYNOTE #10 (FORMATO TIPO TEDX)",
+              "details": [
+                "PAMELA ANTONIOLLI",
+                "GERENTE GENERAL HUB DE INNOVACIÓN MINERA DEL PERÚ"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "PAMELA ANTONIOLLI",
+                  "role": "GERENTE GENERAL HUB DE INNOVACIÓN MINERA DEL PERÚ",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-083",
+              "time": "17:10 a 17:15",
+              "start": "17:10",
+              "end": "17:15",
+              "title": "Presentadora",
+              "category": null,
+              "details": [
+                "LUCIA CHOQUEHUANCA",
+                "CAMARA PYME DEL SUR",
+                "CASO #1",
+                "PITCH CONCURSANTE #1 «MUJER LUCHADORA 2026»"
+              ],
+              "country": null,
+              "iso": null,
+              "speakers": [
+                {
+                  "name": "LUCIA CHOQUEHUANCA",
+                  "role": null,
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "CAMARA PYME DEL SUR",
+                  "role": null,
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "CASO #1",
+                  "role": "PITCH CONCURSANTE #1 «MUJER LUCHADORA 2026»",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-084",
+              "time": "17:16 a 17:21",
+              "start": "17:16",
+              "end": "17:21",
+              "title": "Caso #2",
+              "category": null,
+              "details": [
+                "PITCH CONCURSANTE #2 «MUJER LUCHADORA 2026»"
+              ],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-085",
+              "time": "17:22 a 17:27",
+              "start": "17:22",
+              "end": "17:27",
+              "title": "Caso #3",
+              "category": null,
+              "details": [
+                "PITCH CONCURSANTE #3 «MUJER LUCHADORA 2026»"
+              ],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-086",
+              "time": "17:28 a 17:33",
+              "start": "17:28",
+              "end": "17:33",
+              "title": "Caso #4",
+              "category": null,
+              "details": [
+                "PITCH CONCURSANTE #4 «MUJER LUCHADORA 2026»"
+              ],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-087",
+              "time": "17:33 a 17:48",
+              "start": "17:33",
+              "end": "17:48",
+              "title": "Deliberación y elección",
+              "category": null,
+              "details": [
+                "Jurado Evaluador: - CAROLINA ALTSHWAGER - CEO ALMABRANDS - CARLA PINARES - GERENTE DE EXPERIENCIA DE MARCA Y PRODUCTO UNIVERSIDAD CONTINENTAL - GIANCARLO TORRES - COORDINADOR JAKU UNSA - MARIA EMILIA LADRÓN DE GUEVARA - PRESIDENTE COMISIÓN MUJERES CCIA",
+                "Elección de Ganadora «Mujer Luchadora 2026» (Entrega en Coctel Michell & CIA) Fotografías Finales"
+              ],
+              "country": "Chile",
+              "iso": "CL",
+              "speakers": [
+                {
+                  "name": "CAROLINA ALTSHWAGER",
+                  "role": "CEO ALMABRANDS",
+                  "country": "Chile",
+                  "iso": "CL",
+                  "moderator": false
+                },
+                {
+                  "name": "CARLA PINARES",
+                  "role": "GERENTE DE EXPERIENCIA DE MARCA Y PRODUCTO UNIVERSIDAD CONTINENTAL",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "GIANCARLO TORRES",
+                  "role": "COORDINADOR JAKU UNSA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "MARIA EMILIA LADRÓN DE GUEVARA",
+                  "role": "PRESIDENTE COMISIÓN MUJERES CCIA · Elección de Ganadora «Mujer Luchadora 2026» (Entrega en Coctel Michell & CIA) Fotografías Finales",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-088",
+              "time": "19:00 a 24:00",
+              "start": "19:00",
+              "end": "24:00",
+              "title": "Noche libre",
+              "category": null,
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day-2",
+      "date": "2026-07-17",
+      "weekday": "Viernes",
+      "day": 17,
+      "tracks": [
+        {
+          "id": "sec-03",
+          "title": "SEGUNDO DÍA #2",
+          "subtitle": "MAINSTAGE FLIT - CONGRESO PRINCIPAL FLIT · VIERNES 17 DE JULIO 2026 de 8:00am a 18:00pm · EJE PRINCIPAL: \"Tecnología para ser más humanos\"",
+          "span": "8:00 - 18:00",
+          "events": [
+            {
+              "id": "ev-049",
+              "time": "8:00 a 9:00",
+              "start": "8:00",
+              "end": "9:00",
+              "title": "Acreditación y registro",
+              "category": "ACREDITACION",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": true
+            },
+            {
+              "id": "ev-050",
+              "time": "9:00 a 9:15",
+              "start": "9:00",
+              "end": "9:15",
+              "title": "Kubernetes, el Sistema Operativo de Internet",
+              "category": "KEYNOTE #14 (FORMATO TIPO TEDX)",
+              "details": [
+                "ENRIQUE SOTO",
+                "TECHNOLY ENGINEER · BANCO DE CRÉDITO BCP"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "ENRIQUE SOTO",
+                  "role": "TECHNOLY ENGINEER · BANCO DE CRÉDITO BCP",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-051",
+              "time": "9:20 a 9:35",
+              "start": "9:20",
+              "end": "9:35",
+              "title": "Usos de GENAI y AGENTIC AI en Minería: un enfoque crítico y práctico",
+              "category": "KEYNOTE #15 (FORMATO TIPO TEDX)",
+              "details": [
+                "JOSE CARLOS VALDIVIA",
+                "SUPERVISOR DE TRANSFORMACIÓN DIGITAL MINERA LAS BAMBAS"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "JOSE CARLOS VALDIVIA",
+                  "role": "SUPERVISOR DE TRANSFORMACIÓN DIGITAL MINERA LAS BAMBAS",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-052",
+              "time": "9:40 a 10:00",
+              "start": "9:40",
+              "end": "10:00",
+              "title": "Emprender solo es difícil. Emprender dentro de un corporativo es otro juego",
+              "category": "KEYNOTE #16 (FORMATO TIPO TEDX)",
+              "details": [
+                "JOSE DAVID ROMERO",
+                "GERENTE GENERAL DE NAOVI"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "JOSE DAVID ROMERO",
+                  "role": "GERENTE GENERAL DE NAOVI",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-053",
+              "time": "10:05 a 10:50",
+              "start": "10:05",
+              "end": "10:50",
+              "title": "Inteligencia artificial en el panorama Latinoamericano",
+              "category": "PANEL DE DIÁLOGO #3: INTELIGENCIA ARTIFICIAL",
+              "details": [
+                "Modera: ROGUER PAREDES - JEFE DE LA OFICINA DE PROYECTOS CX CONAUTO TOYOTA",
+                "CLAUDIA DEL POZO - DIRECTORA EJECUTIVA EON INSTITUTE",
+                "JUAN JOSÉ MIRANDA - HEAD OF INNOVATION CENTER, WEB3 & QUANTUM COMPUTING",
+                "NTTDATA",
+                "JOSÉ OCHOA - DIRECTOR CENTRO de INVESTIGACIÓN e INNOVACIÓN en COMPUTACIÓN UCSP"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "ROGUER PAREDES",
+                  "role": "JEFE DE LA OFICINA DE PROYECTOS CX CONAUTO TOYOTA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": true
+                },
+                {
+                  "name": "CLAUDIA DEL POZO",
+                  "role": "DIRECTORA EJECUTIVA EON INSTITUTE",
+                  "country": "México",
+                  "iso": "MX",
+                  "moderator": false
+                },
+                {
+                  "name": "JUAN JOSÉ MIRANDA",
+                  "role": "HEAD OF INNOVATION CENTER, WEB3 & QUANTUM COMPUTING",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "NTTDATA",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "JOSÉ OCHOA",
+                  "role": "DIRECTOR CENTRO de INVESTIGACIÓN e INNOVACIÓN en COMPUTACIÓN UCSP",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-054",
+              "time": "10:55 a 11:15",
+              "start": "10:55",
+              "end": "11:15",
+              "title": "El poder de la inteligencia artificial en las operaciones mineras",
+              "category": "KEYNOTE #17 (FORMATO TIPO TEDX)",
+              "details": [
+                "MAURICIO MESONES",
+                "GERENTE GENERAL JEBI INTERNACIONAL"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "MAURICIO MESONES",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": null,
+                  "role": "GERENTE GENERAL JEBI INTERNACIONAL",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-055",
+              "time": "11:20 a 12:05",
+              "start": "11:20",
+              "end": "12:05",
+              "title": "El ecosistema y su importancia para innovar en minería",
+              "category": "PANEL DE DIÁLOGO #4: MINERÍA INNOVADORA",
+              "details": [
+                "Modera: PAMELA ANTONIOLLI - GERENTE GENERAL HUB MINERO",
+                "ALEX CHACÓN - CONSULTOR DE ARQUITECTURA EN MINERIA CHACON PARTNERS",
+                "DIEGO REQUEJO - JEFE DE PLANEAMIENTO MINERA BATEAS",
+                "RUTH ESCOBAR - JEFE DE INNOVACIÓN CERRO VERDE"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "PAMELA ANTONIOLLI",
+                  "role": "GERENTE GENERAL HUB MINERO",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": true
+                },
+                {
+                  "name": "ALEX CHACÓN",
+                  "role": "CONSULTOR DE ARQUITECTURA EN MINERIA CHACON PARTNERS",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "DIEGO REQUEJO",
+                  "role": "JEFE DE PLANEAMIENTO MINERA BATEAS",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "RUTH ESCOBAR",
+                  "role": "JEFE DE INNOVACIÓN CERRO VERDE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-056",
+              "time": "12:10 a 12:30",
+              "start": "12:10",
+              "end": "12:30",
+              "title": "Futuro del trabajo y Tecnologías en la educación",
+              "category": "KEYNOTE #18 (FORMATO TIPO TEDX)",
+              "details": [
+                "JORGE BOSSIO",
+                "DIRECTOR DE INNOVACIÓN EDUCATIVA Y EMPRENDIMIENTO - UPC"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "JORGE BOSSIO",
+                  "role": "DIRECTOR DE INNOVACIÓN EDUCATIVA Y EMPRENDIMIENTO",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "UPC",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-057",
+              "time": "12:35 a 12:55",
+              "start": "12:35",
+              "end": "12:55",
+              "title": "La IA es un gran copiloto en ventas, pero tú eres quien conduce",
+              "category": "KEYNOTE #19 (FORMATO TIPO TEDX)",
+              "details": [
+                "PEDRO JOSE DE ZAVALA",
+                "GERENTE GENERAL HUEVOS LA CALERA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "PEDRO JOSE DE ZAVALA",
+                  "role": "GERENTE GENERAL HUEVOS LA CALERA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-058",
+              "time": "12:55 a 13:15",
+              "start": "12:55",
+              "end": "13:15",
+              "title": "LatamGPT: Primer modelo de lenguaje de América Latina",
+              "category": "KEYNOTE #20 (FORMATO TIPO TEDX)",
+              "details": [
+                "OMAR FLOREZ",
+                "TEAM LEAD LATAM GPT"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "OMAR FLOREZ",
+                  "role": null,
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "TEAM LEAD LATAM GPT",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-059",
+              "time": "15:00 a 15:15",
+              "start": "15:00",
+              "end": "15:15",
+              "title": "Computación Cuántica: La nueva frontera",
+              "category": "KEYNOTE #21 (FORMATO TIPO TEDX)",
+              "details": [
+                "JUAN JOSE MIRANDA",
+                "HEAD OF INNOVATION CENTER, WEB3 & QUANTUM COMPUTING NTTDATA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "JUAN JOSE MIRANDA",
+                  "role": "HEAD OF INNOVATION CENTER, WEB3 & QUANTUM COMPUTING NTTDATA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-060",
+              "time": "15:20 a 15:35",
+              "start": "15:20",
+              "end": "15:35",
+              "title": "FUTURO DEL TRABAJO: Adaptabilidad, IA y Tecnología",
+              "category": "KEYNOTE #22 (FORMATO TIPO TEDX)",
+              "details": [
+                "GONZALO INDACOCHEA",
+                "Director del Management Innovation Lab, powered by Huete&Co"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "GONZALO INDACOCHEA",
+                  "role": "Director del Management Innovation Lab, powered by Huete&Co",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-061",
+              "time": "15:40 a 15:55",
+              "start": "15:40",
+              "end": "15:55",
+              "title": "El nuevo consumidor tecnológico: retos y oportunidades",
+              "category": "KEYNOTE #23 (FORMATO TIPO TEDX)",
+              "details": [
+                "ANA MARIA PATRON",
+                "DIRECTORA EJECUTIVA SPM"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "ANA MARIA PATRON",
+                  "role": "DIRECTORA EJECUTIVA SPM",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-062",
+              "time": "16:00 a 16:15",
+              "start": "16:00",
+              "end": "16:15",
+              "title": "Drones de Altura: Perú Pionero Tecnológico Mundial",
+              "category": "KEYNOTE #24 (FORMATO TIPO TEDX)",
+              "details": [
+                "PEDRO GRIJALBA",
+                "GERENTE GENERAL ROBOTIC AIR SYSTEMS"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "PEDRO GRIJALBA",
+                  "role": "GERENTE GENERAL ROBOTIC AIR SYSTEMS",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-063",
+              "time": "16:15 a 16:55",
+              "start": "16:15",
+              "end": "16:55",
+              "title": "Arequipa y su avance empresarial",
+              "category": "PANEL DE DIÁLOGO #5: FLIT INDUSTRIA Y EMPRESA",
+              "details": [
+                "Modera: ALEXANDER VALVERDE (CEO DE G&S COMEX S.A.C. Y PAST PRESIDENT ADEPIA)",
+                "JOSÉ MEDINA (DIRECTOR CESEM y COMITÉ PYME CCIA)",
+                "VÍCTOR HUGO WONG (UNIVERSIDAD CATÓLICA SANTA MARÍA)",
+                "RICARDO ESPINOZA (COORDINADOR DER MADRE DE DIOS)"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "ALEXANDER VALVERDE",
+                  "role": "CEO DE G&S COMEX S.A.C. Y PAST PRESIDENT ADEPIA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": true
+                },
+                {
+                  "name": "JOSÉ MEDINA",
+                  "role": "DIRECTOR CESEM y COMITÉ PYME CCIA · VÍCTOR HUGO WONG (UNIVERSIDAD CATÓLICA SANTA MARÍA)",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                },
+                {
+                  "name": "RICARDO ESPINOZA",
+                  "role": "COORDINADOR DER MADRE DE DIOS",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-064",
+              "time": "17:00 a 17:15",
+              "start": "17:00",
+              "end": "17:15",
+              "title": "Del exitoso Banco del Estudiante a Residuos que Educan: la nueva apuesta de José Adolfo Quisocala, el niño banquero que hoy es adulto",
+              "category": "KEYNOTE #25 (FORMATO TIPO TEDX)",
+              "details": [
+                "JOSÉ ADOLFO QUISOCALA",
+                "GERENTE GENERAL Y FUNDADOR BANCO DEL ESTUDIANTE"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "JOSÉ ADOLFO QUISOCALA",
+                  "role": "GERENTE GENERAL Y FUNDADOR BANCO DEL ESTUDIANTE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-065",
+              "time": "17:20 a 17:35",
+              "start": "17:20",
+              "end": "17:35",
+              "title": "Conectando Perú y Eurasia: emprendimiento, academia e innovación desde la experiencia CERTUS",
+              "category": "KEYNOTE #26 (FORMATO TIPO TEDX)",
+              "details": [
+                "MOISES QUIÑONES LABRIN",
+                "JEFE ACADÉMICO CERTUS"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "MOISES QUIÑONES LABRIN",
+                  "role": "JEFE ACADÉMICO CERTUS",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-066",
+              "time": "17:35 a 17:45",
+              "start": "17:35",
+              "end": "17:45",
+              "title": "Tecnología Ancestral vs Tecnología Moderna",
+              "category": "KEYNOTE #26 (FORMATO TIPO TEDX)",
+              "details": [
+                "MARIA ISABEL ZEGARRA",
+                "CEO NEXUS"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": "MARIA ISABEL ZEGARRA",
+                  "role": "CEO NEXUS",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            }
+          ]
+        },
+        {
+          "id": "sec-05",
+          "title": "FLIT EDUCACIÓN 2026",
+          "subtitle": "Día: VIERNES 17 DE JULIO 2026 DE 8:00 AM A 18:00PM · Lugar: Universidad La Salle Auditorio #2 - Capacidad 80 personas · INGRESO GRATUITO - PREVIA INSCRIPCIÓN · Lidera: MUSA · Presidentes: Mónica Ramos - Erik Sibille",
+          "span": "8:00 - 18:00",
+          "events": [
+            {
+              "id": "ev-089",
+              "time": "9:15 a 10:00",
+              "start": "9:15",
+              "end": "10:00",
+              "title": "Educación en tiempos de IA",
+              "category": "KEYNOTE #1 (FORMATO TIPO TEDX)",
+              "details": [
+                "ALFREDO PERSICO CEO FUTURE LAB"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "ALFREDO PERSICO CEO FUTURE LAB",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-090",
+              "time": "10:00 a 10:30",
+              "start": "10:00",
+              "end": "10:30",
+              "title": "Calidad Educativa 2030: Menos hiperactividad, más profundidad. Enseñar y aprender en la era de la IA",
+              "category": "KEYNOTE #2 (FORMATO TIPO TEDX)",
+              "details": [
+                "DRA CRISTINA SAKSANIAN RECTORA UNIVERSIDAD CONTINENTAL"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "DRA CRISTINA SAKSANIAN RECTORA UNIVERSIDAD CONTINENTAL",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-091",
+              "time": "10:30 a 11:00",
+              "start": "10:30",
+              "end": "11:00",
+              "title": "Aprender Creando: El rol humano de los profesores y la agencia del estudiante en tiempos de IA",
+              "category": "KEYNOTE #3 (FORMATO TIPO TEDX)",
+              "details": [
+                "GERALDINE GARCIA MEDINA CEO AND FOUNDER HAI EDUCATORS"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "GERALDINE GARCIA MEDINA CEO AND FOUNDER HAI EDUCATORS",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-092",
+              "time": "11:00 a 11:45",
+              "start": "11:00",
+              "end": "11:45",
+              "title": "Por definir",
+              "category": "PANEL #1",
+              "details": [
+                "VALENTINA JADUE LÍDER DE INTERNALIZACIÓN Y ALIANZAS KODEA"
+              ],
+              "country": "Chile",
+              "iso": "CL",
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "VALENTINA JADUE LÍDER DE INTERNALIZACIÓN Y ALIANZAS KODEA",
+                  "country": "Chile",
+                  "iso": "CL",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-093",
+              "time": "11:45 a 12:15",
+              "start": "11:45",
+              "end": "12:15",
+              "title": "EdHacks y Prototipado Rápido: Co-diseñando el futuro de las aulas con IA",
+              "category": "KEYNOTE #4 (FORMATO TIPO TEDX)",
+              "details": [
+                "ALEJANDRA COZ FERNÁNDEZ AIDEA FOR DUCATION"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-094",
+              "time": "12:15 a 14:15",
+              "start": "12:15",
+              "end": "14:15",
+              "title": "Almuerzo libre",
+              "category": "ALMUERZO LIBRE",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": true
+            },
+            {
+              "id": "ev-095",
+              "time": "14:15 a 15:00",
+              "start": "14:15",
+              "end": "15:00",
+              "title": "Docentes e IA en Latinoamérica",
+              "category": "KEYNOTE #5 (FORMATO TIPO TEDX)",
+              "details": [
+                "RICARDO CUENCA EX MINISTRO DE EDUCACIÓN"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "RICARDO CUENCA EX MINISTRO DE EDUCACIÓN",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-096",
+              "time": "15:00 a 15:30",
+              "start": "15:00",
+              "end": "15:30",
+              "title": "Tres puntos claves, para que tu edtech escale",
+              "category": "KEYNOTE #6 (FORMATO TIPO TEDX)",
+              "details": [
+                "RENZO REYES DIRECTOR EN STARTUPC - UPC"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "RENZO REYES DIRECTOR EN STARTUPC",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": "UPC",
+                  "role": null,
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-097",
+              "time": "15:30 a 16:00",
+              "start": "15:30",
+              "end": "16:00",
+              "title": "Acelerando el Talento Técnico: IA y competencias digitales para el primer empleo",
+              "category": "KEYNOTE #7 (FORMATO TIPO TEDX)",
+              "details": [
+                "DIEGO VÁSQUEZ GERENTE DE DATOS & BI CERTUS"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "DIEGO VÁSQUEZ GERENTE DE DATOS & BI CERTUS",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-098",
+              "time": "16:00 a 16:30",
+              "start": "16:00",
+              "end": "16:30",
+              "title": "Construyendo el futuro de la educación: IA en el journey del alumno",
+              "category": "KEYNOTE #8 (FORMATO TIPO TEDX)",
+              "details": [
+                "JUAN DIEGO MORZÁN SAMAMÉ COE LEAD - ADVANCED ANALYTICS & GENAI LAUREATE PERÚ"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-099",
+              "time": "16:30 a 17:00",
+              "start": "16:30",
+              "end": "17:00",
+              "title": "Educación sin Fricción: Cómo acelerar el desarrollo de habilidades con IA y WhatsApp",
+              "category": "KEYNOTE #9 (FORMATO TIPO TEDX)",
+              "details": [
+                "MÓNICA RAMOS LI CEO Y COFUNDADORA MUSA"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "MÓNICA RAMOS LI CEO Y COFUNDADORA MUSA",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-100",
+              "time": "17:00 a 17:30",
+              "start": "17:00",
+              "end": "17:30",
+              "title": "El Impacto en la Región: Inteligencia Artificial, Empleo y el Futuro del Trabajo en el Sur",
+              "category": "KEYNOTE #10 (FORMATO TIPO TEDX)",
+              "details": [
+                "Dr. PATRICIO QUINTANILLA PAULET RECTOR UNIVERSIDAD LA SALLE"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "Dr. PATRICIO QUINTANILLA PAULET RECTOR UNIVERSIDAD LA SALLE",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-101",
+              "time": "17:30 a 17:45",
+              "start": "17:30",
+              "end": "17:45",
+              "title": "Cierre",
+              "category": null,
+              "details": [
+                "Clausura y conclusiones",
+                "MARIA ALEJANDRA LLOSA (CEO FLIT) PATRICIO QUINTANILLA (RECTOR UNIVERSIDAD LA SALLE) MÓNICA RAMOS (PRESIDENTE FLIT EDUCACION) ERIK SIBILLE (PRESIDENTE FLIT EDUCACION)"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-102",
+              "time": "19:00 a 24:00",
+              "start": "19:00",
+              "end": "24:00",
+              "title": "Noche libre",
+              "category": null,
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day-3",
+      "date": "2026-07-18",
+      "weekday": "Sábado",
+      "day": 18,
+      "tracks": [
+        {
+          "id": "sec-06",
+          "title": "FLIT HACKATON 2026",
+          "subtitle": "SÁBADO 18 de julio 2026 - 8:00am a 8:00pm (evento oficial) · Acreditación desde 7:00am · Sub-Sede: Universidad La Salle · Presidente: Ignacio Velásquez",
+          "span": "8:00 - 8:00",
+          "events": [
+            {
+              "id": "ev-103",
+              "time": "9:00 a 12:30",
+              "start": "9:00",
+              "end": "12:30",
+              "title": "Bloque #1 de hacking",
+              "category": null,
+              "details": [
+                "DEFINICIÓN DEL PROBLEMA, PROPUESTA Y ARRANQUE DEL BUILDING",
+                "Equipos + Mentores rotativos + Equipo audiovisual"
+              ],
+              "country": null,
+              "iso": null,
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "DEFINICIÓN DEL PROBLEMA, PROPUESTA Y ARRANQUE DEL BUILDING",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                },
+                {
+                  "name": null,
+                  "role": "Equipos + Mentores rotativos + Equipo audiovisual",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-104",
+              "time": "12:30 a 13:30",
+              "start": "12:30",
+              "end": "13:30",
+              "title": "Almuerzo",
+              "category": "ALMUERZO",
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": true
+            },
+            {
+              "id": "ev-105",
+              "time": "13:30 a 17:00",
+              "start": "13:30",
+              "end": "17:00",
+              "title": "Bloque #2 de hacking + selección activa de finalistas",
+              "category": null,
+              "details": [
+                "BUILDING INTENSIVO + SELECCIÓN ACTIVA DE FINALISTA",
+                "Equipos + Mentores (rúbrica activa) + Jurado sponsor (visitas)"
+              ],
+              "country": null,
+              "iso": null,
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "BUILDING INTENSIVO + SELECCIÓN ACTIVA DE FINALISTA",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-106",
+              "time": "17:00 a 17:30",
+              "start": "17:00",
+              "end": "17:30",
+              "title": "Code freeze + preparación de presentadores",
+              "category": null,
+              "details": [
+                "Equipos finalistas + Mentores de pitch + Staff técnico"
+              ],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-107",
+              "time": "17:30 a 19:00",
+              "start": "17:30",
+              "end": "19:00",
+              "title": "Pitches y demos (rúbrica digital en Drive)",
+              "category": "PRESENTACIONES ANTE EL JURADO",
+              "details": [
+                "4-6 finalistas · Jurado completo · MC: Ignacio Velásquez"
+              ],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-108",
+              "time": "19:00 a 19:30",
+              "start": "19:00",
+              "end": "19:30",
+              "title": "Deliberación privada + cena 13 monjas",
+              "category": "ANUNCIO DE RESULTADOS, PREMIACIÓN Y FOTOS",
+              "details": [
+                "Jurado / FLIT / Catering"
+              ],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-109",
+              "time": "19:30 a 19:50",
+              "start": "19:30",
+              "end": "19:50",
+              "title": "Ganadores por track + best overall",
+              "category": "ANUNCIO DE RESULTADOS, PREMIACIÓN Y FOTOS",
+              "details": [
+                "Title Sponsor · Partners Estratégicos · Ignacio Velásquez"
+              ],
+              "country": null,
+              "iso": null,
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "Title Sponsor · Partners Estratégicos · Ignacio Velásquez",
+                  "country": null,
+                  "iso": null,
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-110",
+              "time": "19:50 a 20:00",
+              "start": "19:50",
+              "end": "20:00",
+              "title": "Cierre del evento y despedida",
+              "category": null,
+              "details": [
+                "Despedida y agradecimientos finales. Apertura de coctel de networking.",
+                "IGNACIO VELÁSQUEZ (PRESIDNETE DE FLIT HACKERS)"
+              ],
+              "country": "Perú",
+              "iso": "PE",
+              "speakers": [
+                {
+                  "name": null,
+                  "role": "IGNACIO VELÁSQUEZ (PRESIDNETE DE FLIT HACKERS)",
+                  "country": "Perú",
+                  "iso": "PE",
+                  "moderator": false
+                }
+              ],
+              "image": null,
+              "isBreak": false
+            },
+            {
+              "id": "ev-111",
+              "time": "19:00 a 24:00",
+              "start": "19:00",
+              "end": "24:00",
+              "title": "Noche libre",
+              "category": null,
+              "details": [],
+              "country": null,
+              "iso": null,
+              "speakers": [],
+              "image": null,
+              "isBreak": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
