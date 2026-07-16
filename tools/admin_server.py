@@ -8,6 +8,8 @@ operador puede:
   - Ver el estado actual de la agenda (días, tracks, eventos) y la última corrida.
   - Comprobar si la web oficial tiene cambios sin tocar el JSON  (botón "Comprobar").
   - Lanzar la actualización de agenda.json en vivo            (botón "Actualizar").
+  - Verificación manual: traer los cambios en vivo, revisarlos y aplicarlos solo tras
+    confirmarlos (el JSON no se sobrescribe hasta verificar).      (tarjeta "Verificación manual").
   - Ver la salida/diff de la última ejecución y el historial (log).
 
 Seguridad mínima:
@@ -217,6 +219,19 @@ PAGE = """<!doctype html>
   </div>
 
   <div class="card">
+    <h2>Verificación manual</h2>
+    <p class="meta">Trae los cambios <b>en vivo</b>, revísalos y aplícalos solo tras verificarlos.
+      La agenda no se sobrescribe hasta que confirmes.</p>
+    <div class="row">
+      <button class="ghost" id="btn-fetch">1 · Traer y revisar cambios</button>
+      <button class="primary" id="btn-apply" disabled>2 · Verificar y aplicar</button>
+      <button class="ghost" id="btn-discard" disabled>Descartar</button>
+    </div>
+    <p class="meta" id="verify-status"></p>
+    <pre id="verify-out" hidden></pre>
+  </div>
+
+  <div class="card">
     <h2>Última corrida</h2>
     <p class="meta" id="meta"></p>
   </div>
@@ -286,9 +301,69 @@ async function runMode(mode) {{
   refresh();
 }}
 
+// ---- Verificación manual: revisar en vivo y aplicar solo tras confirmar ----
+let pendingVerified = false;
+
+async function fetchForVerify() {{
+  const btns = document.querySelectorAll('button');
+  btns.forEach(b => b.disabled = true);
+  $('verify-status').textContent = 'Trayendo cambios en vivo para revisión…';
+  const d = await api('/api/run?mode=check', 'POST');
+  btns.forEach(b => b.disabled = false);
+  if (!d) return;
+  $('verify-out').hidden = false;
+  $('verify-out').textContent = d.output;
+  $('btn-discard').disabled = false;
+  if (d.exit === 2) {{
+    pendingVerified = true;
+    $('btn-apply').disabled = false;
+    $('verify-status').innerHTML = '<span class="pill warn">cambios detectados</span> '
+      + 'Revisa la salida y pulsa «Verificar y aplicar».';
+  }} else if (d.exit === 0) {{
+    pendingVerified = false;
+    $('btn-apply').disabled = true;
+    $('verify-status').innerHTML = '<span class="pill ok">sin cambios</span> No hay nada que aplicar.';
+  }} else {{
+    pendingVerified = false;
+    $('btn-apply').disabled = true;
+    $('verify-status').innerHTML = '<span class="pill err">error</span> Revisa la salida antes de aplicar.';
+  }}
+  refresh();
+}}
+
+async function applyVerified() {{
+  if (!pendingVerified) return;
+  if (!confirm('¿Aplicar los cambios verificados? Se reescribirá agenda.json con los datos en vivo.')) return;
+  const btns = document.querySelectorAll('button');
+  btns.forEach(b => b.disabled = true);
+  $('verify-status').textContent = 'Aplicando cambios verificados…';
+  const d = await api('/api/run?mode=update', 'POST');
+  btns.forEach(b => b.disabled = false);
+  if (!d) return;
+  const cls = d.exit === 1 ? 'err' : (d.exit === 2 ? 'ok' : 'warn');
+  $('verify-out').hidden = false;
+  $('verify-out').textContent = d.output;
+  $('verify-status').innerHTML = `<span class="pill ${{cls}}">${{esc(d.label)}}</span> Verificación aplicada.`;
+  pendingVerified = false;
+  $('btn-apply').disabled = true;
+  refresh();
+}}
+
+function discardVerify() {{
+  pendingVerified = false;
+  $('btn-apply').disabled = true;
+  $('btn-discard').disabled = true;
+  $('verify-out').hidden = true;
+  $('verify-out').textContent = '';
+  $('verify-status').textContent = '';
+}}
+
 $('btn-check').onclick  = () => runMode('check');
 $('btn-update').onclick = () => runMode('update');
 $('btn-refresh').onclick = refresh;
+$('btn-fetch').onclick = fetchForVerify;
+$('btn-apply').onclick = applyVerified;
+$('btn-discard').onclick = discardVerify;
 refresh();
 </script>
 </body></html>"""
