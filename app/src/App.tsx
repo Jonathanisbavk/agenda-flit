@@ -10,6 +10,7 @@ import CalendarView from "./components/CalendarView";
 import EventDetailSheet from "./components/EventDetailSheet";
 import ItineraryModal from "./components/ItineraryModal";
 import SelectionBar from "./components/SelectionBar";
+import AdminPanel, { ADMIN_SLUG } from "./components/AdminPanel";
 
 type View = "calendar" | "list";
 
@@ -50,6 +51,13 @@ export default function App() {
   const [detail, setDetail] = useState<AgendaEvent | null>(null);
   const [itineraryOpen, setItineraryOpen] = useState(false);
   const [view, setView] = useState<View>("list");
+  // Panel de admin (verificación manual del "en vivo"): solo si la URL trae el
+  // slug secreto ?panel=<slug>. Los visitantes normales nunca lo ven.
+  const [adminOpen, setAdminOpen] = useState(false);
+  useEffect(() => {
+    const slug = new URLSearchParams(window.location.search).get("panel");
+    if (slug && slug === ADMIN_SLUG) setAdminOpen(true);
+  }, []);
   /** Marca que el próximo cambio de día viene del nav y debe reencuadrarse. */
   const reframe = useRef(false);
 
@@ -195,6 +203,7 @@ export default function App() {
         onClose={() => setDetail(null)}
       />
       <ItineraryModal open={itineraryOpen} onClose={() => setItineraryOpen(false)} />
+      {adminOpen && <AdminPanel onClose={() => setAdminOpen(false)} />}
     </div>
   );
 }

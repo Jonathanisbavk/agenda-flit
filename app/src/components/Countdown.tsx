@@ -1,7 +1,5 @@
 import { useEffect, useState } from "react";
-
-// Inicio del festival: 15 de julio 2026, 08:00 (hora de Perú, UTC-5).
-const TARGET = new Date("2026-07-15T08:00:00-05:00").getTime();
+import { FESTIVAL_START, LIVE_EVENT, effectiveLive } from "../lib/liveStatus";
 
 interface Parts {
   days: number;
@@ -11,9 +9,11 @@ interface Parts {
 }
 
 function diff(): Parts {
-  const ms = TARGET - Date.now();
-  if (ms <= 0) return { days: 0, hours: 0, minutes: 0, live: true };
-  const minutes = Math.floor(ms / 60000);
+  // El estado "en vivo" respeta la verificación manual; si no hay, manda la fecha.
+  const live = effectiveLive();
+  if (live) return { days: 0, hours: 0, minutes: 0, live: true };
+  const ms = FESTIVAL_START - Date.now();
+  const minutes = Math.max(0, Math.floor(ms / 60000));
   return {
     days: Math.floor(minutes / 1440),
     hours: Math.floor((minutes % 1440) / 60),
@@ -26,8 +26,16 @@ export default function Countdown() {
   const [parts, setParts] = useState<Parts>(diff);
 
   useEffect(() => {
-    const id = window.setInterval(() => setParts(diff()), 30000);
-    return () => window.clearInterval(id);
+    const update = () => setParts(diff());
+    const id = window.setInterval(update, 30000);
+    // Reacciona a la verificación manual (misma pestaña) y a otras pestañas.
+    window.addEventListener(LIVE_EVENT, update);
+    window.addEventListener("storage", update);
+    return () => {
+      window.clearInterval(id);
+      window.removeEventListener(LIVE_EVENT, update);
+      window.removeEventListener("storage", update);
+    };
   }, []);
 
   if (parts.live) {
